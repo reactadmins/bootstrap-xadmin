@@ -102,7 +102,7 @@ run development server
 Within the download you'll find the following directories and files:
 
 ```
-React Admin Dashboard Bootstrap
+XAdmin Dashboard Bootstrap
 
 .
 ├── public
